@@ -1,0 +1,7 @@
+@"
+.venv/
+__pycache__/
+*.pyc
+scan-debug.log
+.env
+"@ | Set-Content .gitignore
